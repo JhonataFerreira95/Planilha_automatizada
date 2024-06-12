@@ -28,3 +28,10 @@ categories = Reference(
 )
 
 barchart.add_data(data, titles_from_data=True)
+barchart.set_categories(categories)
+
+sheet.add_chart(barchart, "B10")
+barchart.title = "Vendas por Fabricantes"
+barchart.style = 2
+
+wb.save("data/barchart.xlsx")
