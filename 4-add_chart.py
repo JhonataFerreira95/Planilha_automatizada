@@ -34,4 +34,3 @@ sheet.add_chart(barchart, "B10")
 barchart.title = "Vendas por Fabricantes"
 barchart.style = 2
 
-wb.save("data/barchart.xlsx")
