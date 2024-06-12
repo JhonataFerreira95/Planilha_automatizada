@@ -6,7 +6,7 @@ Uma planilha dinâmica feita com <Python>. Utilizando a biblioteca do <pandas> e
 
 1-Utilize o <Print(date)> para visualizar no terminal ou <wb.save(`teste`.xlsx)> para criar e visualizar em um arquivo Excel.
 
-#Obs:
+# Obs:
 
 A palavra `teste` foi dada como exemplo, sendo assim, pode-se utilizar qualquer outra palavra para gerar o arquivo <xlsx>.
 
