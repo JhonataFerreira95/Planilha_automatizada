@@ -4,7 +4,7 @@ Uma planilha dinâmica feita com `Python`. Utilizando a biblioteca do `pandas` e
 
 # MODO DE USO.
 
-1-Utilize o <Print(date)> para visualizar no terminal ou `wb.save(teste.xlsx)` para criar e visualizar em um arquivo Excel.
+1-Utilize o `print(data)` para visualizar no terminal ou `wb.save(teste.xlsx)` para criar e visualizar em um arquivo Excel.
 
 # Obs:
 
