@@ -22,7 +22,7 @@ data = Reference(
 categories = Reference(
     sheet,
     min_col=min_column,
-    max_col=max_column,
+    max_col=min_column,
     min_row=min_row + 1,
     max_row=max_row
 )
